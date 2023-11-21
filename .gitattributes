@@ -2,3 +2,5 @@
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.ucas filter=lfs diff=lfs merge=lfs -text
 *.pak filter=lfs diff=lfs merge=lfs -text
+*unrealgame.exe filter=lfs diff=lfs merge=lfs -text
+*OpenImageDenoise.dll filter=lfs diff=lfs merge=lfs -text
