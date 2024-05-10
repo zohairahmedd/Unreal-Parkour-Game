@@ -1,5 +1,5 @@
 ## 2D Side Scroller
-Developed a 2D dynamic parkour video game based on ”Getting Over It” using Unreal Engine’s Blueprint Visual Scripting
+Developed a 2D parkour video game based on ”Getting Over It” using Unreal Engine’s Blueprint Visual Scripting
 
 ## Description
 - Applied assets into game files to create appealing visuals
